@@ -5,4 +5,8 @@ public class People {
     {
         System.out.println(Name + ' ' + age);
     }
+    public void say()
+    {
+        System.out.println("Hello");
+    }
 }
