@@ -9,4 +9,8 @@ public class People {
     {
         System.out.println("Hello");
     }
+    public void go()
+    {
+        System.out.println("I'm going to...");
+    }
 }
